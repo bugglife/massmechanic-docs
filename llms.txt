@@ -1,0 +1,100 @@
+# MassMechanic - Auto Repair Matching Service
+
+> MassMechanic connects car owners in Massachusetts with verified local mechanics. Free for drivers, curated network of licensed shops.
+
+## Documentation
+
+- Overview: https://massmechanic.com/docs/
+- How It Works: https://massmechanic.com/docs/how-it-works.html
+- Service Areas: https://massmechanic.com/docs/service-areas.html
+- FAQ: https://massmechanic.com/docs/faq.html
+- For Mechanics: https://massmechanic.com/docs/for-mechanics.html
+
+## What is MassMechanic?
+
+MassMechanic is a free service that connects car owners with verified mechanics in Massachusetts. Car owners submit a simple request describing their repair needs, and we match them with 2-3 licensed mechanics in their area who specialize in that type of work.
+
+## Service Areas
+
+Currently serving:
+- Greater Brockton, MA
+- Fall River, MA
+- New Bedford, MA
+- Surrounding Massachusetts communities
+
+## How It Works
+
+### For Car Owners (100% Free):
+1. Submit a request form with vehicle info and repair description (60 seconds, no account needed)
+2. Get matched with 2-3 verified mechanics in your area
+3. Compare quotes and choose the best fit
+4. Book directly with the mechanic
+
+No fees, no subscriptions, no middleman charges. You pay the mechanic directly at their normal rates.
+
+### For Mechanics:
+MassMechanic operates an invitation-only, curated network of verified mechanics. We personally select shops based on licensing, insurance, reputation, and service quality standards.
+
+Interested mechanics can contact: mechanics@massmechanic.com
+
+## What We Handle
+
+Our verified mechanic network handles all types of auto service:
+- Brake repair and replacement
+- Engine diagnostics and check engine lights
+- Oil changes and routine maintenance
+- Battery replacement and electrical
+- AC and heating repair
+- Transmission service
+- Suspension and steering
+- State inspections
+- Tire service
+- General repairs
+
+## Quality Standards
+
+All mechanics in the network:
+- Hold valid Massachusetts business licenses
+- Carry proper insurance
+- Meet our verified service quality standards
+- Have been personally vetted by our team
+
+## Why Use MassMechanic?
+
+**For Car Owners:**
+- Completely free (no fees or charges)
+- Verified, licensed mechanics only
+- Fast matching (typically 1-2 hours)
+- Compare multiple quotes
+- No middleman or platform fees
+
+**For Mechanics:**
+- Curated, exclusive network
+- Quality customer connections
+- Selective membership by invitation
+
+## Contact
+
+- Website: https://massmechanic.com
+- Support: support@massmechanic.com
+- Mechanics: mechanics@massmechanic.com
+
+## Common Questions
+
+**Q: Is it really free?**
+A: Yes. Completely free for car owners. No fees, subscriptions, or hidden charges.
+
+**Q: How long to get matched?**
+A: Most requests receive responses within 1-2 hours. Urgent requests often within minutes.
+
+**Q: Can I choose my mechanic?**
+A: Absolutely. You receive contact info for 2-3 matched mechanics and choose who you prefer.
+
+**Q: Are mechanics verified?**
+A: Yes. All shops are verified for proper licensing, insurance, and credentials.
+
+**Q: Can anyone join as a mechanic?**
+A: No. We operate a selective, invitation-based network. Quality over quantity.
+
+**Q: Do you serve my area?**
+A: Currently serving Greater Brockton, Fall River, and New Bedford regions. Expanding regularly.
